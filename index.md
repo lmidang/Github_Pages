@@ -3,10 +3,11 @@
 I am currently a second year transfer student at UCSD studying CSE.
 
 # Index
-1. [About Me](https://github.com/lmidang/Github_Pages/blob/using-markdown/index.md#about-me)
+1. [About Me](https://lmidang.github.io/Github_Pages#about-me)
 2. [Readme](README.md)
 3. Screenshot of command line git transactions [1](screenshots/screen_1.JPG)[2](screenshots/screen_2.JPG)
 4. Screenshot of staged commit [1](screenshots/screen_6.JPG)
+5. [My LinkedIn](https://www.linkedin.com/in/lmdang/)
 
 ## About Me
 My current interests in CS are:
