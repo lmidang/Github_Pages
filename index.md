@@ -34,4 +34,4 @@ print(cats are wonderful)
 
 > I like cats.
 
-![a cat](images/20210920_190514.jpg | width=100)
+![a cat](images/20210920_190514.jpg)
